@@ -1,7 +1,8 @@
 # Deep Learning for Full-Field Ultrasonic Characterization
 
 ## Overview
-This repository contains the code used in the paper "**Deep Learning for Full-Field Ultrasonic Characterization**". DOI: https://doi.org/10.1016/j.ymssp.2023.110668. The code includes implementations for direct inversion methods and Physics-Informed Neural Networks (PINNs), aimed at reconstructing the mechanical properties of layered components from ultrasonic testing data. These models provide a robust, data-driven framework for nondestructive evaluation of complex materials.
+This repository contains the code used in the paper "**Deep Learning for Full-Field Ultrasonic Characterization**". 
+DOI: https://doi.org/10.1016/j.ymssp.2023.110668. The code includes implementations for direct inversion methods and Physics-Informed Neural Networks (PINNs), aimed at reconstructing the mechanical properties of layered components from ultrasonic testing data. These models provide a robust, data-driven framework for nondestructive evaluation of complex materials.
 
 ### Key Contributions:
 - **Direct Inversion Method**: A systematic approach using spectral denoising and differentiation of full-field ultrasonic data to build appropriate neural maps for reconstructing unknown material properties.
