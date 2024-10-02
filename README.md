@@ -10,10 +10,8 @@ DOI: https://doi.org/10.1016/j.ymssp.2023.110668. The code includes implementati
 - **Application to Ultrasonic Testing**: These models are applied to reconstruct material properties from ultrasonic datasets, which have applications in areas like medical imaging and material quality assessment.
 
 ## Repository Structure
-- `data/`: Sample ultrasonic datasets for testing the models.
-- `direct_inversion/`: Implementation of the direct inversion method.
-- `pinn/`: Implementation of the Physics-Informed Neural Networks.
-- `results/`: Generated figures and validation results for both synthetic and experimental data.
+- `direct_inversion/`: Implementation of the direct inversion method with code and data.
+- `pinn/`: Implementation of the Physics-Informed Neural Networks with code and data.
 
 ## Run
 To run the code, you will need Python 3.7 or higher, PyTorch 2.2.2 or higher. 
